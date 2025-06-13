@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Pratap Singh</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">Passionate full stack developer with hands-on experience in building scalable web applications using modern frameworks and technologies. Skilled in crafting efficient frontends, robust backends, and integrating dynamic APIs. Enthusiastic about data structures and algorithms, consistently solving complex problems to sharpen logical and analytical thinking. Dedicated to continuous learning, clean code, and impactful tech solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strynic-65&label=Profile%20views&color=0e75b6&style=flat" alt="strynic-65" /> </p>
 
@@ -29,3 +29,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=strynic-65&show_icons=true&locale=en&layout=compact" alt="strynic-65" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=strynic-65&show_icons=true&locale=en" alt="strynic-65" /></p>
+
